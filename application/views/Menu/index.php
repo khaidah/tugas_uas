@@ -3,7 +3,7 @@
 	<div class="container p-5 my-2 my-auto mt-3">
 		<div class="mx-auto my-3"  style="width: 450px;">
 			<form class="d-flex" action="" method="post">
-				<input class="form-control me-2" type="search" placeholder="Cari Data Karyawan" aria-label="Search" name="cari">
+				<input class="form-control me-2" type="search" placeholder="Cari Menu" aria-label="Search" name="cari">
 				<button class="btn btn-outline-success" type="submit">Cari</button>
 			</form>
 			
